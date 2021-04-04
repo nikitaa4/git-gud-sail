@@ -1,2 +1,2 @@
 # git-gud-sail
-Git gud @ git with WCS Explorations at Sail 2021!
+Welcome to SAIL :) Git gud @ git with WCS Explorations at Sail 2021!
